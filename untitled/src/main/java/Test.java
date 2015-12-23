@@ -1,6 +1,3 @@
-/**
- * Created by 佑介 on 2015/12/20.
- */
 public class Test {
 
 	public static void main(String[] args) {
